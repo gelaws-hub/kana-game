@@ -36,35 +36,35 @@ import { FooterComponent } from "../../components/footer.component"
         <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 md:p-8 animate-slide-up hover:shadow-xl transition-shadow">
           <div class="flex items-center mb-4">
             <div class="icon-circle bg-indigo-100 dark:bg-indigo-900 mr-4 flex items-center justify-center">
-              <mat-icon class="text-indigo-600 dark:text-indigo-400">menu_book</mat-icon>
+              <mat-icon class="text-indigo-600 dark:text-indigo-200">menu_book</mat-icon>
             </div>
-            <h2 class="text-2xl font-bold text-indigo-600 dark:text-indigo-400">How to Play</h2>
+            <h2 class="text-2xl font-bold text-indigo-600 dark:text-indigo-200">How to Play</h2>
           </div>
           
           <div class="space-y-4 text-gray-700 dark:text-gray-300">
             <div class="flex items-start">
-              <div class="number-circle bg-indigo-100 dark:bg-indigo-900 mr-4 text-indigo-600 dark:text-indigo-400 flex items-center justify-center">
+              <div class="number-circle bg-indigo-100 dark:bg-indigo-900 mr-4 text-indigo-600 dark:text-indigo-200 flex items-center justify-center">
                 <span>1</span>
               </div>
               <p>A Japanese character will be displayed on the screen.</p>
             </div>
             
             <div class="flex items-start">
-              <div class="number-circle bg-indigo-100 dark:bg-indigo-900 mr-4 text-indigo-600 dark:text-indigo-400 flex items-center justify-center">
+              <div class="number-circle bg-indigo-100 dark:bg-indigo-900 mr-4 text-indigo-600 dark:text-indigo-200 flex items-center justify-center">
                 <span>2</span>
               </div>
               <p>Choose the correct romanized reading from the four options provided.</p>
             </div>
             
             <div class="flex items-start">
-              <div class="number-circle bg-indigo-100 dark:bg-indigo-900 mr-4 text-indigo-600 dark:text-indigo-400 flex items-center justify-center">
+              <div class="number-circle bg-indigo-100 dark:bg-indigo-900 mr-4 text-indigo-600 dark:text-indigo-200 flex items-center justify-center">
                 <span>3</span>
               </div>
               <p>Get immediate feedback on your answer and track your progress!</p>
             </div>
             
             <div class="flex items-start">
-              <div class="number-circle bg-indigo-100 dark:bg-indigo-900 mr-4 text-indigo-600 dark:text-indigo-400 flex items-center justify-center">
+              <div class="number-circle bg-indigo-100 dark:bg-indigo-900 mr-4 text-indigo-600 dark:text-indigo-200 flex items-center justify-center">
                 <span>4</span>
               </div>
               <p>Customize your quiz in the options to focus on specific characters.</p>
@@ -75,35 +75,35 @@ import { FooterComponent } from "../../components/footer.component"
         <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 md:p-8 animate-slide-up hover:shadow-xl transition-shadow">
           <div class="flex items-center mb-4">
             <div class="icon-circle bg-pink-100 dark:bg-pink-900 mr-4 flex items-center justify-center">
-              <mat-icon class="text-pink-600 dark:text-pink-400">emoji_events</mat-icon>
+              <mat-icon class="text-pink-600 dark:text-pink-200">emoji_events</mat-icon>
             </div>
-            <h2 class="text-2xl font-bold text-pink-600 dark:text-pink-400">Features</h2>
+            <h2 class="text-2xl font-bold text-pink-600 dark:text-pink-200">Features</h2>
           </div>
           
           <div class="space-y-4 text-gray-700 dark:text-gray-300">
             <div class="flex items-start">
-              <div class="check-circle bg-pink-100 dark:bg-pink-900 mr-4 text-pink-600 dark:text-pink-400 flex items-center justify-center">
+              <div class="check-circle bg-pink-100 dark:bg-pink-900 mr-4 text-pink-600 dark:text-pink-200 flex items-center justify-center">
                 <span>✓</span>
               </div>
               <p>Complete hiragana and katakana sets including dakuten and combination characters.</p>
             </div>
             
             <div class="flex items-start">
-              <div class="check-circle bg-pink-100 dark:bg-pink-900 mr-4 text-pink-600 dark:text-pink-400 flex items-center justify-center">
+              <div class="check-circle bg-pink-100 dark:bg-pink-900 mr-4 text-pink-600 dark:text-pink-200 flex items-center justify-center">
                 <span>✓</span>
               </div>
               <p>Customizable quiz options to focus on specific character groups.</p>
             </div>
             
             <div class="flex items-start">
-              <div class="check-circle bg-pink-100 dark:bg-pink-900 mr-4 text-pink-600 dark:text-pink-400 flex items-center justify-center">
+              <div class="check-circle bg-pink-100 dark:bg-pink-900 mr-4 text-pink-600 dark:text-pink-200 flex items-center justify-center">
                 <span>✓</span>
               </div>
               <p>Track your progress and compete with your previous high scores.</p>
             </div>
             
             <div class="flex items-start">
-              <div class="check-circle bg-pink-100 dark:bg-pink-900 mr-4 text-pink-600 dark:text-pink-400 flex items-center justify-center">
+              <div class="check-circle bg-pink-100 dark:bg-pink-900 mr-4 text-pink-600 dark:text-pink-200 flex items-center justify-center">
                 <span>✓</span>
               </div>
               <p>Timed quizzes to challenge yourself and improve your speed.</p>
